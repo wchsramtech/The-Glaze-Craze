@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="The Glaze Craze menu">
+  <rect width="1200" height="900" fill="#fff8ef"/>
+  <rect x="120" y="80" width="960" height="740" rx="40" fill="#fffdf9" stroke="#d1a77c" stroke-width="6"/>
+  <text x="600" y="180" text-anchor="middle" font-size="72" font-family="Georgia, serif" font-weight="700" fill="#642f20">MENU</text>
+  <line x1="230" y1="220" x2="970" y2="220" stroke="#a8442a" stroke-width="6"/>
+  <g font-family="Arial, sans-serif" fill="#3c2924">
+    <text x="240" y="310" font-size="34" font-weight="700">Classic Candy Apple</text>
+    <text x="900" y="310" font-size="34" font-weight="700">$6</text>
+    <text x="240" y="360" font-size="24">Caramel coating with crunchy candy bits</text>
+
+    <text x="240" y="450" font-size="34" font-weight="700">Chocolate Drizzle Apple</text>
+    <text x="900" y="450" font-size="34" font-weight="700">$7</text>
+    <text x="240" y="500" font-size="24">Dark chocolate swirl and sea salt finish</text>
+
+    <text x="240" y="590" font-size="34" font-weight="700">Glaze Crunch Nacho Boat</text>
+    <text x="900" y="590" font-size="34" font-weight="700">$9</text>
+    <text x="240" y="640" font-size="24">Apple slices with caramel, toppings, and crunch</text>
+
+    <text x="240" y="730" font-size="34" font-weight="700">Seasonal Special</text>
+    <text x="900" y="730" font-size="34" font-weight="700">$10</text>
+    <text x="240" y="780" font-size="24">Fresh fall flavor with house-made glaze</text>
+  </g>
+</svg>

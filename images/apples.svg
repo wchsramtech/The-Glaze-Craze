@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Caramel apples illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fbe8cf"/>
+      <stop offset="100%" stop-color="#f9f1e8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#bg)"/>
+  <g transform="translate(150 30)">
+    <g transform="translate(60 60)">
+      <path d="M0 140c0-70 57-127 127-127 70 0 127 57 127 127v60c0 77-62 139-139 139S0 277 0 200v-60z" fill="#a8442a"/>
+      <path d="M18 150c0-52 42-94 94-94s94 42 94 94v35c0 52-42 94-94 94s-94-42-94-94v-35z" fill="#c55b38"/>
+      <path d="M115 10c-20 0-36 16-36 36v6c0 48 38 86 86 86s86-38 86-86v-6c0-20-16-36-36-36H115z" fill="#6f9d57"/>
+      <path d="M70 154c-6 24 8 47 32 59 20 10 45 10 65 0 24-12 38-35 32-59" fill="none" stroke="#f3d39d" stroke-width="10" stroke-linecap="round"/>
+      <path d="M60 154c0 37 31 68 68 68 40 0 72-31 72-68" fill="none" stroke="#8d3d22" stroke-width="12" stroke-linecap="round"/>
+      <path d="M110 30l-8 36 23 0-8-36z" fill="#8d3d22"/>
+      <path d="M128 30l-8 36 23 0-8-36z" fill="#8d3d22"/>
+      <path d="M146 30l-8 36 23 0-8-36z" fill="#8d3d22"/>
+    </g>
+    <g transform="translate(360 150)">
+      <rect x="0" y="0" width="190" height="28" rx="14" fill="#f7d7ae"/>
+      <rect x="28" y="29" width="134" height="72" rx="18" fill="#c6b0a0"/>
+      <path d="M40 100c0-40 32-72 72-72 40 0 72 32 72 72v32H40v-32z" fill="#ffb162"/>
+      <circle cx="55" cy="62" r="16" fill="#fffced"/>
+      <circle cx="96" cy="60" r="18" fill="#fffced"/>
+      <circle cx="134" cy="70" r="15" fill="#fffced"/>
+      <circle cx="78" cy="98" r="14" fill="#fffced"/>
+      <circle cx="118" cy="97" r="13" fill="#fffced"/>
+    </g>
+  </g>
+  <text x="450" y="470" text-anchor="middle" font-size="42" font-family="Georgia, serif" font-weight="700" fill="#642f20">Sweet treats made fresh</text>
+</svg>
